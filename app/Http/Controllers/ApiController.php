@@ -24,7 +24,7 @@ class ApiController
                     'lead_img_url'       => 'http://kxxb.ru/img/post-bg.jpg',
                     'created_at'         => '16.10.2020 13:13:13',
                     'author'             => 'kxxb',
-                    'author_profile_url' => 'about-kxxb.html',
+                    'author_profile_url' => 'about-kxxb2.html',
                     'rating_count'       => 10,
                     'view_count'         => 20,
                     'slug'               => '/post/1-nginx-centos7-log-request-response-post.html'
